@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent_config>{
+    "tableName": "core_company",
+    "sysId": "8ec33b193790200044e0bfc8bcbe5d35",
+    "029f04e053610110ac9bddeeff7b1294": {
+        "activityLogs": null,
+        "detailsContext": {},
+        "forcedViewName": "",
+        "inputQuery": "",
+        "inputSysId": "187d13f03710200044e0bfc8bcbe5df2",
+        "inputTable": "core_company",
+        "view": "default view"
+    }
+}</macroponent_config>
+        <screen display_value="Company-form">68343f9a97d33110f50a3246f053aff9</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 15:13:49</sys_created_on>
+        <sys_id>e4343f9a97d33110f50a3246f053affc</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_e4343f9a97d33110f50a3246f053affc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 17:00:29</sys_updated_on>
+    </sys_uib_screen_test_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Global Company">73fedfd697533110f50a3246f053af22</application>
+        <file_path/>
+        <instance_id>6a1908fddb4fbb80b847ac44d49619ef</instance_id>
+        <instance_name>dev90626</instance_name>
+        <name>sys_uib_screen_test_values_e4343f9a97d33110f50a3246f053affc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config>{
+    "tableName": "core_company",
+    "sysId": "8ec33b193790200044e0bfc8bcbe5d35",
+    "029f04e053610110ac9bddeeff7b1294": {
+        "activityLogs": null,
+        "detailsContext": {},
+        "forcedViewName": "",
+        "inputQuery": "",
+        "inputSysId": "187d13f03710200044e0bfc8bcbe5df2",
+        "inputTable": "core_company",
+        "view": "default view"
+    }
+}</macroponent_config><screen display_value="Company-form">68343f9a97d33110f50a3246f053aff9</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-26 15:13:49</sys_created_on><sys_id>e4343f9a97d33110f50a3246f053affc</sys_id><sys_mod_count>5</sys_mod_count><sys_name/><sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package><sys_policy/><sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope><sys_update_name>sys_uib_screen_test_values_e4343f9a97d33110f50a3246f053affc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-26 17:00:29</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+        <payload_hash>-2006734458</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f7fedfd697533110f50a3246f053af70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 17:00:29</sys_created_on>
+        <sys_id>cb9c8ce697573110f50a3246f053af5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ca71216be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 17:00:29</sys_updated_on>
+        <type>UIB Screen Test Values</type>
+        <update_guid>c39c8ce6b85731102bbef79d7acfd15a</update_guid>
+        <update_guid_history>c39c8ce6b85731102bbef79d7acfd15a:-2006734458,f46bc0a651573110b8028f72cf9f269c:-495150140,d24808a2d0573110ffee6d49b0f5dcb0:-296628860,f596bf1e7bd331107a35b7890bec71c9:994331146,7ee43fda35d331105a549ab4f66565b0:1356579478,68343f9a12d331107e2135f428af05fd:-1016368909</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 17:02:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>6b648efb63ba466e9d938587964956e9</sys_id>
+        <sys_metadata>e4343f9a97d33110f50a3246f053affc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_scope_delete display_value="">a526c7aed67e4bee93c893df87ab34c9</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_e4343f9a97d33110f50a3246f053affc</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_e4343f9a97d33110f50a3246f053affc">cb9c8ce697573110f50a3246f053af5a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 17:02:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

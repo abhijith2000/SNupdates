@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New Country wise tasks</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Country wise tasks</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">953a4739e821211076da10591ad28742</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 13:47:06</sys_created_on>
+        <sys_id>9a50eb5a97533110f50a3246f053afcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Country wise tasks</sys_name>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_update_name>sys_wizard_answer_9a50eb5a97533110f50a3246f053afcd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 13:47:06</sys_updated_on>
+        <table/>
+        <target_url>x_896598_global_0_country_wise_tasks.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Global Company">73fedfd697533110f50a3246f053af22</application>
+        <file_path/>
+        <instance_id>6a1908fddb4fbb80b847ac44d49619ef</instance_id>
+        <instance_name>dev90626</instance_name>
+        <name>sys_wizard_answer_9a50eb5a97533110f50a3246f053afcd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New Country wise tasks</answer><button_label/><dependent_value/><element/><name>Country wise tasks</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">953a4739e821211076da10591ad28742</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-26 13:47:06</sys_created_on><sys_id>9a50eb5a97533110f50a3246f053afcd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Country wise tasks</sys_name><sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package><sys_policy/><sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope><sys_update_name>sys_wizard_answer_9a50eb5a97533110f50a3246f053afcd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-26 13:47:06</sys_updated_on><table/><target_url>x_896598_global_0_country_wise_tasks.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1570993869</payload_hash>
+        <record_name>Country wise tasks</record_name>
+        <reverted_from/>
+        <source>f7fedfd697533110f50a3246f053af70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 13:47:06</sys_created_on>
+        <sys_id>9250eb5a97533110f50a3246f053afd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ca66109ca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 13:47:06</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>9650eb5a9a5331100abfe06e7b5061cf</update_guid>
+        <update_guid_history>9650eb5a9a5331100abfe06e7b5061cf:-1570993869</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 17:25:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>134cc978a8934e9e859808566a0c89e9</sys_id>
+        <sys_metadata>9a50eb5a97533110f50a3246f053afcd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Country wise tasks</sys_name>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_parent display_value="Task">953a4739e821211076da10591ad28742</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_scope_delete display_value="">a526c7aed67e4bee93c893df87ab34c9</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_9a50eb5a97533110f50a3246f053afcd</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_9a50eb5a97533110f50a3246f053afcd">9250eb5a97533110f50a3246f053afd0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 17:25:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
