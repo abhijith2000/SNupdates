@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Country classifications">1d466f5a97933110f50a3246f053afdf</configuration>
+        <description/>
+        <order>10</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 14:13:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f66639a97933110f50a3246f053af73</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Countrywise</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_update_name>sys_ux_list_category_1f66639a97933110f50a3246f053af73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 14:16:46</sys_updated_on>
+        <title>Countrywise</title>
+    </sys_ux_list_category>
+</record_update>

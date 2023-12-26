@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 13:47:14</sys_created_on>
+        <sys_id>4060af5a97533110f50a3246f053af5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_896598_global_0_country_wise_tasks.x_896598_global_0.admin</sys_name>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_security_acl display_value="x_896598_global_0_country_wise_tasks">4060af5a97533110f50a3246f053af5b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4060af5a97533110f50a3246f053af5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 13:47:14</sys_updated_on>
+        <sys_user_role display_value="x_896598_global_0.admin" name="x_896598_global_0.admin">7ffedfd697533110f50a3246f053af73</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Global Company">73fedfd697533110f50a3246f053af22</application>
+        <file_path/>
+        <instance_id>6a1908fddb4fbb80b847ac44d49619ef</instance_id>
+        <instance_name>dev90626</instance_name>
+        <name>sys_security_acl_role_4060af5a97533110f50a3246f053af5e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-26 13:47:14</sys_created_on><sys_id>4060af5a97533110f50a3246f053af5e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_896598_global_0_country_wise_tasks.x_896598_global_0.admin</sys_name><sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package><sys_policy/><sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope><sys_security_acl display_value="x_896598_global_0_country_wise_tasks">4060af5a97533110f50a3246f053af5b</sys_security_acl><sys_update_name>sys_security_acl_role_4060af5a97533110f50a3246f053af5e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-26 13:47:14</sys_updated_on><sys_user_role display_value="x_896598_global_0.admin" name="x_896598_global_0.admin">7ffedfd697533110f50a3246f053af73</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>184026502</payload_hash>
+        <record_name>x_896598_global_0_country_wise_tasks.x_896598_global_0.admin</record_name>
+        <reverted_from/>
+        <source>f7fedfd697533110f50a3246f053af70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 13:47:14</sys_created_on>
+        <sys_id>0c60af5a97533110f50a3246f053af6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ca66127b00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 13:47:14</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4060af5a765331107b709acf3f63376c</update_guid>
+        <update_guid_history>4060af5a765331107b709acf3f63376c:184026502</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_896598_global_0_country_wise_tasks.x_896598_global_0.admin">733290ee97573110f50a3246f053af6c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 17:25:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>6911d66905b244a094d6a11b176d7f24</sys_id>
+        <sys_metadata>4060af5a97533110f50a3246f053af5e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_896598_global_0_country_wise_tasks.x_896598_global_0.admin</sys_name>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_parent display_value="">4060af5a97533110f50a3246f053af5b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_scope_delete display_value="">a526c7aed67e4bee93c893df87ab34c9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_4060af5a97533110f50a3246f053af5e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_4060af5a97533110f50a3246f053af5e">0c60af5a97533110f50a3246f053af6c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 17:25:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

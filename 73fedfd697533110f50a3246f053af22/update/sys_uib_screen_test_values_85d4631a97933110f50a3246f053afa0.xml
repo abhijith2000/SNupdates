@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "inputTable": "core_company",
+        "inputSysId": "8ec33b193790200044e0bfc8bcbe5d35"
+    }
+}</macroponent_config>
+        <screen display_value="Default">49d4631a97933110f50a3246f053af9c</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 14:06:41</sys_created_on>
+        <sys_id>85d4631a97933110f50a3246f053afa0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_85d4631a97933110f50a3246f053afa0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 17:23:09</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

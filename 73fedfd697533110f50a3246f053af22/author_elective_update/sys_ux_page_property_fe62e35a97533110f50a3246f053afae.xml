@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Company ">8d622b1e97533110f50a3246f053af1d</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 13:56:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>fe62e35a97533110f50a3246f053afae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_update_name>sys_ux_page_property_fe62e35a97533110f50a3246f053afae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 13:56:09</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_896598_global_0.8d622b1e97533110f50a3246f053af1d.root.chrome_header</unique_name>
+        <value>{"privatePage":{"userPrefsEnabled":false,"searchEnabled":false,"currentScreenLinkConfiguration":{},"globalTools":{"collapsingMenuId":0,"primaryItems":[],"secondaryItems":[]}},"publicPage":{"menuEnabled":false,"searchEnabled":false,"logoRoute":{},"actionButtons":[]}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=fe62e35a97533110f50a3246f053afae"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Global Company">73fedfd697533110f50a3246f053af22</application>
+        <file_path/>
+        <instance_id>6a1908fddb4fbb80b847ac44d49619ef</instance_id>
+        <instance_name>dev90626</instance_name>
+        <name>sys_ux_page_property_fe62e35a97533110f50a3246f053afae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="Company ">8d622b1e97533110f50a3246f053af1d</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-26 13:56:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>fe62e35a97533110f50a3246f053afae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package><sys_policy/><sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope><sys_update_name>sys_ux_page_property_fe62e35a97533110f50a3246f053afae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-26 13:56:09</sys_updated_on><type>json</type><unique_name>x_896598_global_0.8d622b1e97533110f50a3246f053af1d.root.chrome_header</unique_name><value>{"privatePage":{"userPrefsEnabled":false,"searchEnabled":false,"currentScreenLinkConfiguration":{},"globalTools":{"collapsingMenuId":0,"primaryItems":[],"secondaryItems":[]}},"publicPage":{"menuEnabled":false,"searchEnabled":false,"logoRoute":{},"actionButtons":[]}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=fe62e35a97533110f50a3246f053afae"/></record_update>]]></payload>
+        <payload_hash>270012000</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>f7fedfd697533110f50a3246f053af70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 13:56:09</sys_created_on>
+        <sys_id>43622b1e97533110f50a3246f053afd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ca669546a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 13:56:09</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>87622b1eb453311047e199228fbac1d7</update_guid>
+        <update_guid_history>87622b1eb453311047e199228fbac1d7:270012000</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 14:00:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>aea5953d974f4b099c5e521bdc039b61</sys_id>
+        <sys_metadata>fe62e35a97533110f50a3246f053afae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_scope_delete display_value="">a526c7aed67e4bee93c893df87ab34c9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_fe62e35a97533110f50a3246f053afae</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_fe62e35a97533110f50a3246f053afae">43622b1e97533110f50a3246f053afd8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 14:00:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

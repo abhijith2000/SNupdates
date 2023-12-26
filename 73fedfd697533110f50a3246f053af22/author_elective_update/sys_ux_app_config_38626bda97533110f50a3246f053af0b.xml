@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Company </name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 13:56:01</sys_created_on>
+        <sys_id>38626bda97533110f50a3246f053af0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company </sys_name>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_update_name>sys_ux_app_config_38626bda97533110f50a3246f053af0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 13:56:01</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="DELETE" query="documentkey=38626bda97533110f50a3246f053af0b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Global Company">73fedfd697533110f50a3246f053af22</application>
+        <file_path/>
+        <instance_id>6a1908fddb4fbb80b847ac44d49619ef</instance_id>
+        <instance_name>dev90626</instance_name>
+        <name>sys_ux_app_config_38626bda97533110f50a3246f053af0b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description/><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>Company </name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-26 13:56:01</sys_created_on><sys_id>38626bda97533110f50a3246f053af0b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Company </sys_name><sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package><sys_policy/><sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope><sys_update_name>sys_ux_app_config_38626bda97533110f50a3246f053af0b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-26 13:56:01</sys_updated_on></sys_ux_app_config><sys_translated_text action="delete_multiple" query="documentkey=38626bda97533110f50a3246f053af0b"/></record_update>]]></payload>
+        <payload_hash>-244897446</payload_hash>
+        <record_name>Company </record_name>
+        <reverted_from/>
+        <source>f7fedfd697533110f50a3246f053af70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 13:56:01</sys_created_on>
+        <sys_id>c5622b1e97533110f50a3246f053af1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ca66934700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 13:56:01</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>0d622b1e4b53311089d77e915f19491c</update_guid>
+        <update_guid_history>0d622b1e4b53311089d77e915f19491c:-244897446</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 14:00:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>681b19af85394a61863274a243e9c8b1</sys_id>
+        <sys_metadata>38626bda97533110f50a3246f053af0b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company </sys_name>
+        <sys_package display_value="Global Company" source="x_896598_global_0">73fedfd697533110f50a3246f053af22</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Global Company">73fedfd697533110f50a3246f053af22</sys_scope>
+        <sys_scope_delete display_value="">a526c7aed67e4bee93c893df87ab34c9</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_38626bda97533110f50a3246f053af0b</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_38626bda97533110f50a3246f053af0b">c5622b1e97533110f50a3246f053af1d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 14:00:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
